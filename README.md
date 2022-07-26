@@ -1,7 +1,7 @@
 # Flag-App
 
 ## Project Preview 
-![Alt Text](https://github.com/asknksk/Flag-App/blob/master/images/Preview.PNG)
+![Alt Text](https://github.com/asknksk/Flag-App/blob/master/img/Preview.PNG)
 
 ## Libraries and Technologies I use
 * HTML
